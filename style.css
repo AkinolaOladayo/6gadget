@@ -107,21 +107,21 @@ nav{
     opacity: 0.5;
     z-index: -1;
 }
-.medium-cirle{
+/* .medium-cirle{
     position: absolute;
     top: 30%;
     right: 30%;
     height: 60%;
     /* opacity: 0.4; */
-    z-index: -1;
-}
+    /* z-index: -1; */
+/* }
 .small-circle{
     position: absolute;
     bottom: 0px;
     left: 20%;
     opacity: 0.5;
     z-index: -1;
-}
+} */ 
 .laptop-select{
     position: absolute;
     width: 15%;
